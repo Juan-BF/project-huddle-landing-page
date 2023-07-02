@@ -122,6 +122,7 @@ Agradecemos seu interesse em contribuir para o projeto Huddle! Se deseja colabor
 - HTML5
 <br>
 <img src="./src/design/html.png" alt="Captura de Pantalla 1" width="50px">
+
 - CSS3
 <br>
 <img src="./src/design/css.png" alt="Captura de Pantalla 1" width="50px">
